@@ -55,7 +55,7 @@ function Header() {
           <img src={ham} alt="" />
         </div>
 
-        <div className="login flex font-pop text-white font-normal text-lg gap-12 hidden lg:block">
+        <div className="login lg:flex font-pop text-white font-normal text-lg gap-5 hidden ">
           <button className="border rounded-md px-8 py-4">Register</button>
           <button className="border rounded-md px-8 py-4 bg-[#4F80FF]">
             Login
